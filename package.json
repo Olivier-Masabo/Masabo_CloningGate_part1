@@ -2,5 +2,24 @@
   "dependencies": {
     "@tailwindcss/cli": "^4.1.12",
     "tailwindcss": "^4.1.12"
-  }
+  },
+  "name": "masabo_cloninggate_part1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olivier-Masabo/Masabo_CloningGate_part1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olivier-Masabo/Masabo_CloningGate_part1/issues"
+  },
+  "homepage": "https://github.com/Olivier-Masabo/Masabo_CloningGate_part1#readme",
+  "description": ""
 }
